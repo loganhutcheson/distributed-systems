@@ -1,0 +1,26 @@
+When I started this project in 2023-24, there was the development loop:
+
+[1]
+Understand the code context youself.
+Ask GPT questions.
+Enter them yourself.
+
+[2]
+Then, in 2025 agents came out and the loop changed to:
+Ask GPT to fix code.
+GPT understands code context.
+GPT changes code.
+Review changes.
+
+
+What I have found for the last 2 months of trying to complete this project, is that the new agent loops
+is incompatible for complex system development and maitenance. The more power I give to these agents,
+in understanding and changing the context themselves, the less I am able to modify and understand the system myself.
+In example, I have the entire 100% of the code context in my own brain in the loop #1.
+Now in loop 2, I started with 100% of the code context, but as GPT makes changes, I lose that understanding.
+I now no longer have the competency to debug and maintain the code. That is human out of the loop.
+So, my current conclusion, is that the human must be in the loop to a greater extent beyond just review of changes.
+My only hope for completing this project is reverting the last 2 months of changes, and doing it all over myself
+with loop [1].
+Linus himself states:
+VIBE = Very Inefficient But Entertaining
