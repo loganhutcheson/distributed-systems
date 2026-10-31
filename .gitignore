@@ -1,0 +1,5 @@
+agent-journal/
+**/*.so
+**/output.log
+**/mr-out-*
+**/mr-[0-9]*
