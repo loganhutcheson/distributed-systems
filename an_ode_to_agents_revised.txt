@@ -1,0 +1,21 @@
+Well, in mid 2025 I wrote "an_ode_to_agents".
+Essentially, I let.. what was it then.. Cursor? GPT5? take over the development of my raft. It couldn't get the test cases passing. I remember spending at least one entire work session, but likely multiple sessions, and came to the conclusion "complex system development is not compatible with agentic human out of the loop...the more I give to these agents the less I can maintain them myself."
+
+Well, it is November 2026. A year ago, I was half right.
+Gemini Neon 4 one shot this project in 10 minutes.
+
+I don't really know how to feel - you know? I knew it was smarter. But it BARREL dozed it. Demolished. Plowed.
+I worked my ass off on this project, many nights at the library.
+
+ok. Some professional thoughts:
+
+1. While I cannot fully own the complexity of this system I can test it End to End and be a part of the verification process.
+
+2. Software is now a black hole. Slop needs a new term, for this isn't slop. This is just pure efficiency and technology replacing and out-dated development process.
+
+3. The training and context data matters.
+This is the smaller hill that I will die on. I have submitted the intellectual and contextual ownership of the entire project. Agents are better.
+But, the fact that I worked my ass off. I wrote long, painstaking notes. I calculated. That history is present in the commits.
+That matters. Agents built off it. They perfected my imperfections. Let's hope I don't die on this hill in  one year from now....
+
+
